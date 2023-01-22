@@ -55,7 +55,7 @@ class Main{
 
 class Main{
     public static void main(String args[]){
-        System.out.println("Checking whether can in maerge or not");
+        System.out.println("Checking whether can in merge or  not");
     }
 }
 
