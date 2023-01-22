@@ -20,7 +20,7 @@ import java.io.*;
 
 import java.util.*;
 
-class Employee{
+/*class Employee{
     private String name;
     public  Employee(String name){
         this.name=name;
@@ -49,6 +49,13 @@ class Main{
         op=Optional.empty();
         emped=op.orElseGet(()->new Employee("Unknown"));
         System.out.println(emped.getName());
+    }
+}
+*/
+
+class Main{
+    public static void main(String args[]){
+        System.out.println("Checking whether can in maerge or not");
     }
 }
 
